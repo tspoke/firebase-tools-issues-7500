@@ -2,7 +2,7 @@
 
 ## Versions
 
-firebase-tools: v13.4.2<br>
+firebase-tools: v13.14.2<br>
 node: v20.9.0<br>
 platform: macOS Sonoma 14.5
 
