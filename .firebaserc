@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "production": "YOUR_PROJECT_ID"
+  },
+  "targets": {
+    "YOUR_PROJECT_ID": {
+      "hosting": {
+        "YOUR_PROJECT_ID": [
+          "YOUR_PROJECT_ID"
+        ]
+      }
+    }
+  }
+}
